@@ -31,11 +31,11 @@
 
 		canvas2 = document.getElementById("canvas2");
 		ctx = canvas2.getContext("2d");
-		ctx.drawImage(canvas1, 100, 100);
 		ctx.translate(200, 200)
 		//ctx.rotate(Math.PI);
 		function rot(angle){
 			ctx.rotate(Math.PI/180*angle);
+			ctx.clearRect(-50, -50, 100, 100);
 			ctx.drawImage(canvas1, -50, -50);
 		}
 		window.addEventListener('deviceorientation', handleOrientation, true);
