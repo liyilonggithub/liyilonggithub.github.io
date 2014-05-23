@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My first post by jekyll</title>
+        <description>
+</description>
+        <pubDate>Fri, 23 May 2014 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/2014/05/23/My%20First%20Post%20By%20Jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/05/23/My%20First%20Post%20By%20Jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
