@@ -7,6 +7,19 @@
     <atom:link href="http://liyilonggithub.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Daily Post</title>
+        <description>&lt;h1 id=&quot;daily-post&quot;&gt;Daily Post&lt;/h1&gt;
+
+&lt;p&gt;感觉每一个学期都没有十分特别的事情在做，虽然STU有这么多人，我也有这么多心思，但是就是没有做这么多事情。&lt;/p&gt;
+
+&lt;p&gt;我觉得成立一个工作室会比较好。。。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
+        <link>http://liyilonggithub.github.io/dairy/2014/05/25/Daily-Post/</link>
+        <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/05/25/Daily-Post/</guid>
+      </item>
+    
+      <item>
         <title>My First Jekyll Post</title>
         <description>&lt;h2 id=&quot;well-this-is-the-first-post&quot;&gt;Well, This is the first post.&lt;/h2&gt;
 &lt;ul&gt;
@@ -37,10 +50,28 @@
 &lt;p&gt;I start my morning with a cup of coffee and
 &lt;a href=&quot;http://www.nytimes.com/&quot;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;class Python
+&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;class Python
     def pip
         pass
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+
+\begin{align*}
+  &amp; \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  &amp; (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) &amp; \cdots &amp; \phi(e_1, e_n) \\
+      \vdots &amp; \ddots &amp; \vdots \\
+      \phi(e_n, e_1) &amp; \cdots &amp; \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+ %]]&gt;&lt;/script&gt;
 
 &lt;p&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#105;&amp;#121;&amp;#105;&amp;#108;&amp;#111;&amp;#110;&amp;#103;&amp;#107;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#108;&amp;#105;&amp;#121;&amp;#105;&amp;#108;&amp;#111;&amp;#110;&amp;#103;&amp;#107;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
@@ -51,10 +82,13 @@
 	img {width: 200px;}
 &lt;/style&gt;
 
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;
+&lt;/script&gt;
+
 </description>
         <pubDate>Sat, 24 May 2014 00:00:00 +0000</pubDate>
-        <link>http://liyilonggithub.github.io/2014/05/24/My-First-Jekyll-Post/</link>
-        <guid isPermaLink="true">http://liyilonggithub.github.io/2014/05/24/My-First-Jekyll-Post/</guid>
+        <link>http://liyilonggithub.github.io/note/2014/05/24/My-First-Jekyll-Post/</link>
+        <guid isPermaLink="true">http://liyilonggithub.github.io/note/2014/05/24/My-First-Jekyll-Post/</guid>
       </item>
     
   </channel>
