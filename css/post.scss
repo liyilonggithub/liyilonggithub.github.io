@@ -1,0 +1,22 @@
+---
+---
+
+body {
+	font-family: "Microsoft Yahei";
+}
+
+.body-wrapper {
+	.title {
+		text-align: center;
+		.sub {
+
+		}
+	}
+	.content {
+		width: 940px;
+		margin: auto;
+		p {
+			text-indent: 2em;
+		}
+	}
+}

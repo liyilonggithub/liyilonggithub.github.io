@@ -7,7 +7,7 @@ tags: casual syntax
 * I'm not gonna write a lot, but I'll stick to my heart, for real.
 * Whatever words from others' mouths, let it be :)
 
-{% highlight javaScript %}
+{% highlight javaScript linenos %}
 function letItBe(matters){
 	matters.forget();
 	date.setDate((new Date).getDate() + 1);

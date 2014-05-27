@@ -5,10 +5,17 @@
 	<meta name="description" content="{{ page.excerpt | strip_html }}">
 	<title>{{ page.title }}</title>
 	<link rel="stylesheet" href="/css/pygments/native.css">
+	<link rel="stylesheet" href="/css/post.css">
 </head>
 <body>
-	<h1><a href="/index.html">Home Page</a></h1>
-	<h3>Author: {{ page.author }} | {{ page.date }}</h3>
-	{{ content }}
+	<div class="body-wrapper">
+		<h1 class="title"><a href="/index.html">Home Page</a></h1>
+		<h3 class="title sub">Author: {{ page.author }} | Category: {{ page.category }} | tags: {{ page.tags | array_to_sentence_string}}</h3>
+		<div class="content">
+			<div class="content-wrapper">
+				{{ content }}
+			</div>
+		</div>
+	</div>
 </body>
 </html>

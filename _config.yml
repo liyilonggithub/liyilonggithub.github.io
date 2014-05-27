@@ -9,12 +9,15 @@ timezone: "Asia/Shanghai"
 # Build settings
 markdown: kramdown
 permalink: pretty
+highlighter: pygments
+paginate: 5
 #lsi: true
 
 kramdown:
   input: GFM
 
 sass:
+  sass_dir: css
   style: :compressed
 
 defaults:
