@@ -9,7 +9,7 @@ timezone: "Asia/Shanghai"
 # Build settings
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+# highlighter: pygments
 paginate: 5
 #lsi: true
 
