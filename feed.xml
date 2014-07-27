@@ -8,6 +8,55 @@
     
       <item>
         <title>Daily Post</title>
+        <description>&lt;p&gt;说起来，当初 Morris 跟我讲 Nodejs 的时候，对于这是个什么玩意儿，什么叫做 event driven programming 还没有一点儿概念。这一年多过的挺快的，学了不少东西，也浪费了不少时间。&lt;/p&gt;
+
+&lt;p&gt;在阿里实习的这段时间，应该还能明白很多事情，以后的路可以怎么走也能清晰一些。我看到很多人技术上都非常牛X，也并不是毕业于名校，但是其中很多人，尽管我目前水平不足以比得过，以后可能也不至于在这个方向钻研的有他们深，但是我能感觉到的是，基本功就是基本功，不是写十年二十年代码就能学会的。对数学模型的理解，对算法和数据结构产生的原因，这种东西，我一定要趁在学校还剩下的这几年多弄明白点，因为以后肯定不会有大块的时间属于自己了，那我现在花大块时间来消磨另一块时间简直就是丧心病狂。&lt;/p&gt;
+
+&lt;p&gt;学习并快乐，有时候能做到这一点。&lt;/p&gt;
+
+&lt;p&gt;做得更好吧 :)&lt;/p&gt;
+
+&lt;p&gt;果然技能树总是乱长= =&lt;br /&gt;
+偶然看到人人上一篇叫做 Neural Network in Plain English 的文章，还以为就是入门介绍，结果是一本叫做《游戏编程中的人工智能技术》的书中的第七章，下载下来发现还有源代码和可执行文件，打开发现了有趣的GUI和AI算法 (#°Д°)&lt;br /&gt;
+于是赶紧决定入坑。。卧槽项目呢少年。。kcharts还没有文档擦。。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://liyilonggithub.github.io/dairy/2014/07/27/Daily-Post/</link>
+        <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/07/27/Daily-Post/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Post</title>
+        <description>&lt;p&gt;搞了一晚上，结果还是把Python3.4.1卸载了，装成了2.7.8。。&lt;/p&gt;
+
+&lt;p&gt;距离上次写post已经有刚好两个月了，现在的心境又有了很大的不同，不表了，困死了&lt;/p&gt;
+
+&lt;p&gt;不过 &lt;strong&gt;后会无期&lt;/strong&gt; 确实不错，其中故事要有故事的人才能看出来一些&lt;/p&gt;
+
+&lt;p&gt;Emmet: &lt;code&gt;p*4&amp;gt;lorem&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+		&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+			&lt;span class=&quot;nx&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Why all the same!&amp;#39;&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Pygments&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;What the f**k&amp;#39;&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SHIT&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Produces:&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium quod expedita perspiciatis recusandae nisi magni impedit ut, quidem aperiam, at provident pariatur eius, delectus laborum eligendi, mollitia voluptatem itaque.&lt;/p&gt;
+&lt;p&gt;Maiores necessitatibus ut officiis nobis placeat nam commodi minus sit cumque facilis magnam repellat nostrum dolores exercitationem saepe blanditiis dolorum natus, quibusdam libero. Impedit ipsa sit expedita iste maiores repellat.&lt;/p&gt;
+&lt;p&gt;Consequuntur asperiores quos, dolorem suscipit vero earum doloremque quis? Aliquid esse eveniet debitis ad! Harum adipisci veritatis rem molestiae nisi tempora reprehenderit omnis ipsam odit modi, vel architecto temporibus sequi.&lt;/p&gt;
+&lt;p&gt;Accusamus debitis, blanditiis unde adipisci minus, tenetur, alias tempore fugit, quas iusto possimus mollitia perferendis doloremque nam enim illum quaerat expedita quod quos rerum sunt nostrum molestiae maxime voluptas ab!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+        <link>http://liyilonggithub.github.io/note/dairy/2014/07/26/Daily-Post/</link>
+        <guid isPermaLink="true">http://liyilonggithub.github.io/note/dairy/2014/07/26/Daily-Post/</guid>
+      </item>
+    
+      <item>
+        <title>Daily Post</title>
         <description>&lt;p&gt;今日颓废的一 X，打了无数把Dota。&lt;/p&gt;
 
 &lt;p&gt;关于未来的出路问题，大家都迷迷糊糊的，但是还有一大把人感觉上看得很清楚。还有些人知道一些，然后来试探别人的想法，但是自己肯分享的又太少了，这样怎么给别人安全反呢，对伐啦。&lt;/p&gt;
