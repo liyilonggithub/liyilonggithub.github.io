@@ -20,7 +20,7 @@
 偶然看到人人上一篇叫做 Neural Network in Plain English 的文章，还以为就是入门介绍，结果是一本叫做《游戏编程中的人工智能技术》的书中的第七章，下载下来发现还有源代码和可执行文件，打开发现了有趣的GUI和AI算法 (#°Д°)&lt;br /&gt;
 于是赶紧决定入坑。。卧槽项目呢少年。。kcharts还没有文档擦。。&lt;/p&gt;
 </description>
-        <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 27 Jul 2014 21:38:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/dairy/2014/07/27/Daily-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/07/27/Daily-Post/</guid>
       </item>
@@ -50,7 +50,7 @@
 &lt;p&gt;Consequuntur asperiores quos, dolorem suscipit vero earum doloremque quis? Aliquid esse eveniet debitis ad! Harum adipisci veritatis rem molestiae nisi tempora reprehenderit omnis ipsam odit modi, vel architecto temporibus sequi.&lt;/p&gt;
 &lt;p&gt;Accusamus debitis, blanditiis unde adipisci minus, tenetur, alias tempore fugit, quas iusto possimus mollitia perferendis doloremque nam enim illum quaerat expedita quod quos rerum sunt nostrum molestiae maxime voluptas ab!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 26 Jul 2014 00:00:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/note/dairy/2014/07/26/Daily-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/note/dairy/2014/07/26/Daily-Post/</guid>
       </item>
@@ -67,7 +67,7 @@
 
 &lt;p&gt;都上床了那么就也滚去睡觉吧，好好恢复明天发育一波。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 May 2014 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 27 May 2014 00:00:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/dairy/2014/05/27/Daily-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/05/27/Daily-Post/</guid>
       </item>
@@ -81,7 +81,7 @@
   &lt;li&gt;什么都自己做好，别人当你是优秀的士兵&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 26 May 2014 00:00:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/dairy/2014/05/26/Daily-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/05/26/Daily-Post/</guid>
       </item>
@@ -94,7 +94,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/note/2014/05/24/My-First-Jekyll-Post/&quot;&gt;First Post&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 25 May 2014 00:00:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/dairy/2014/05/25/Daily-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/dairy/2014/05/25/Daily-Post/</guid>
       </item>
@@ -130,10 +130,9 @@
 &lt;p&gt;I start my morning with a cup of coffee and
 &lt;a href=&quot;http://www.nytimes.com/&quot;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;class Python
-    def pip
-        pass
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;python&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Python&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;     &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;pip&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
 
@@ -155,9 +154,6 @@
 
 &lt;p&gt;&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#105;&amp;#121;&amp;#105;&amp;#108;&amp;#111;&amp;#110;&amp;#103;&amp;#107;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#108;&amp;#105;&amp;#121;&amp;#105;&amp;#108;&amp;#111;&amp;#110;&amp;#103;&amp;#107;&amp;#111;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
-&lt;p&gt;© 2014 Dragonly&lt;/p&gt;
-
 &lt;style&gt;
 	img {width: 200px;}
 &lt;/style&gt;
@@ -166,7 +162,7 @@
 &lt;/script&gt;
 
 </description>
-        <pubDate>Sat, 24 May 2014 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 24 May 2014 00:00:00 +0800</pubDate>
         <link>http://liyilonggithub.github.io/note/2014/05/24/My-First-Jekyll-Post/</link>
         <guid isPermaLink="true">http://liyilonggithub.github.io/note/2014/05/24/My-First-Jekyll-Post/</guid>
       </item>
