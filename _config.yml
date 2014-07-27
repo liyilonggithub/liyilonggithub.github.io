@@ -5,13 +5,14 @@ description: "This is the first time I setup a real blog and publish on the Inte
 baseurl: ""
 url: "http://liyilonggithub.github.io"
 timezone: "Asia/Shanghai"
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-# highlighter: pygments
+highlighter: pygments
 paginate: 5
-#lsi: true
+# lsi: true
 
 kramdown:
   input: GFM
@@ -23,7 +24,7 @@ sass:
 defaults:
   -
     scope:
-      path: ""
+      path: "" # an empty string here means all files in the project
     values:
       layout: "default"
       author: "Bruce Lee"

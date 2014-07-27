@@ -4,13 +4,14 @@
 	<meta charset="utf-8">
 	<meta name="description" content="{{ page.excerpt | strip_html }}">
 	<title>{{ page.title }}</title>
-	<link rel="stylesheet" href="/css/pygments/native.css">
+	<link rel="stylesheet" href="/css/pygments/pygments.css">
+	<!-- <link rel="stylesheet" href="/css/screen.css"> -->
 	<link rel="stylesheet" href="/css/post.css">
 </head>
 <body>
 	<div class="body-wrapper">
 		<h1 class="title"><a href="/index.html">Home Page</a></h1>
-		<h3 class="title sub">Author: {{ page.author }} | Category: {{ page.category }} | tags: {{ page.tags | array_to_sentence_string}}</h3>
+		<h3 class="title sub">Author: {{ page.author }} | Category: {{ page.categories | array_to_sentence_string }} | tags: {{ page.tags | array_to_sentence_string}}</h3>
 		<div class="content">
 			<div class="content-wrapper">
 				{{ content }}

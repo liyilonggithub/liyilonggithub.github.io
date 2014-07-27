@@ -3,9 +3,24 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ page.title }}</title>
-	<link rel="stylesheet" href="/css/pygments/native.css">
+	<link rel="stylesheet" href="/css/pygments/pygments.css">
+	<link rel="stylesheet" href="/css/default.css">
+	<!-- <link rel="stylesheet" href="/css/screen.css"> -->
 </head>
 <body>
-	{{ content }}
+	<div class="body-wrapper">
+		<div class="content">
+			<div class="content-wrapper">
+				{{ content }}
+			</div>
+		</div>
+	</div>
+	<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 </body>
 </html>
